@@ -5,3 +5,4 @@ Step 1: Start the server
 
 Step 2: Start the client
   Client is located at 
+https://github.com/SparklingWaterEnthusiast/ChatServer/blob/7ae837b60b457df32442a2ff5292fad7aa5d633f/Client2.0/ClientSong/Client63/Client63/bin/Debug/Client63.exe
